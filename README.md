@@ -1,4 +1,4 @@
-# Kobe-AMeDAS-Deta  
+# TakarazukaAMeDASDeta  
 1分ごとに兵庫県神戸市で観測された気象データをブラウザで見ることができるwebアプリです。  
 
 # 情報元
